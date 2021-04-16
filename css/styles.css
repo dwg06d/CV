@@ -1,17 +1,22 @@
   body {
-    background-color: #9dad7f
+    background-color: #9dad7f;
   }
 
-  hr{
+  hr {
     border-style: dotted none none;
     border-color: grey;
     border-width: 10px;
     width: 5%;
   }
 
-h1{
-  color: #03506f;
-}
-h3{
-  color: #03506f;
+  h1 {
+    color: #03506f;
+  }
+
+  h3 {
+    color: #03506f;
+  }
+
+.profile {
+  border-radius: 100%;
 }
